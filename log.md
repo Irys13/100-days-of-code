@@ -11,7 +11,7 @@
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/record-collection
 
 
-### Day 0: 27 June 2018
+### Day 1: 27 June 2018
 
  **Today's Progress**: Finished "Record collection" challenge, JS while loops, JS for loops, JS odd numbers with for loops, counting backwards with for loops, iterate through array with for loop
  
