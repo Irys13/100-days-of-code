@@ -19,3 +19,11 @@ https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-j
  
  **Link to work:** https://www.freecodecamp.org/irys13 
 
+
+### Day 2: 28 June 2018
+
+**Today's Progress**: Nesting for loops, do while loops and Profile look up challenge on Free Code Camp
+
+**Thoughts:** Profile Look up was nice challenge which required a bit more time than others. I am excited for solving it. I really liked this challenge as it required knowledge of different loops and was more advanced than other ones.
+
+**Link to work:** https://www.freecodecamp.org/irys13 
