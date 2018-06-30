@@ -27,3 +27,22 @@ https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-j
 **Thoughts:** Profile Look up was nice challenge which required a bit more time than others. I am excited for solving it. I really liked this challenge as it required knowledge of different loops and was more advanced than other ones.
 
 **Link to work:** https://www.freecodecamp.org/irys13 
+
+
+
+### Day 3: 29 June 2018
+
+**Today's Progress**: Learning JS, specifically: Parseint Funtion with a Radix, Paresint Function, generating random numbers witin a range, generate random numbers, generate random fractionson on Free Code Camp
+
+**Thoughts:** I forgot to input this entry.
+
+**Link to work:** https://www.freecodecamp.org/irys13 
+
+
+### Day 4: 30 June 2018
+
+**Today's Progress**: Learning JS, specifically: Conditional ternary operators and multiple conditional ternary operators && Reviewing CSS specifically: entire baisc CSS section on Free Code Camp
+
+**Thoughts:** Despite having hard day at work, I ended up being super productive in regards to CSS course. I have done a lot of CSS in past so it wasn't very challenging however I did learn few new things regardless of it. Did 2 challenges in JS. Well that was exciting!
+
+**Link to work:** https://www.freecodecamp.org/irys13 
