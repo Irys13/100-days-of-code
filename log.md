@@ -46,3 +46,12 @@ https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-j
 **Thoughts:** Despite having hard day at work, I ended up being super productive in regards to CSS course. I have done a lot of CSS in past so it wasn't very challenging however I did learn few new things regardless of it. Did 2 challenges in JS. Well that was exciting!
 
 **Link to work:** https://www.freecodecamp.org/irys13 
+
+
+### Day 5: 2 July 2018
+
+**Today's Progress**: Learning JS, specifically: var, let and const keywords.
+
+**Thoughts:** Another hard day at work but despite being so tired I was too curious to not peek what next section, ES6 challenges has to offer. Let and const keywords remind me of getters and setters in Java in some way. I have also found very informative youtube channel "The Coding Train" which is great source of JS.
+
+**Link to work:** https://www.freecodecamp.org/irys13 
