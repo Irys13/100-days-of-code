@@ -55,3 +55,13 @@ https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-j
 **Thoughts:** Another hard day at work but despite being so tired I was too curious to not peek what next section, ES6 challenges has to offer. Let and const keywords remind me of getters and setters in Java in some way. I have also found very informative youtube channel "The Coding Train" which is great source of JS.
 
 **Link to work:** https://www.freecodecamp.org/irys13 
+
+
+
+### Day 6: 16 July 2018
+
+**Today's Progress**: Write Arrow Functions with Parameters, Use Arrow Functions To Write Concise Anonymous Functions, Prevent Object Mutation, Mutate An Array Declared with Const
+
+**Thoughts:** Back from holidays! I was very excited to be able to code again. I got to learn arrow functions which were quite interesting as I have never seen it in other languages that I have learned. It makes code so much shorter but a bit harder to read for those who are not used to it. I can imagine getting used to it and using it more frequently, it's just a matter of learning and a bit of time. The Coding Train youtube channel had some interesting videos which explained it in more depth and with some examples.
+
+**Link to work:** https://www.freecodecamp.org/irys13 
