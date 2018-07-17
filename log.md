@@ -72,6 +72,6 @@ https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-j
 
 **Today's Progress**: Default Parameters for Your Functions, Higher Order Arrow Functions
 
-**Thoughts:** I have read and learned a lot about arrow functions and more about DRY principles. It was a tough bite as it's rather hard thing to read but I have managed to get through it. I am proud of myself! Mozilla web docs and The Code Train (YouTube channel) came quite handy.
+**Thoughts:** I have read and learned a lot about arrow functions and more about DRY principles. It was a tough bite as it's rather hard thing to read but I have managed to get through it. I am proud of myself as I did extra hour despite being tired. Mozilla web docs and The Code Train (YouTube channel) came quite handy.
 
 **Link to work:** https://www.freecodecamp.org/irys13 
