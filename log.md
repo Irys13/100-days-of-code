@@ -60,8 +60,18 @@ https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-j
 
 ### Day 6: 16 July 2018
 
-**Today's Progress**: Write Arrow Functions with Parameters, Use Arrow Functions To Write Concise Anonymous Functions, Prevent Object Mutation, Mutate An Array Declared with Const
+**Today's Progress**: Arrow Functions with Parameters, Use Arrow Functions To Write Concise Anonymous Functions, Prevent Object Mutation, Mutate An Array Declared with Const
 
 **Thoughts:** Back from holidays! I was very excited to be able to code again. I got to learn arrow functions which were quite interesting as I have never seen it in other languages that I have learned. It makes code so much shorter but a bit harder to read for those who are not used to it. I can imagine getting used to it and using it more frequently, it's just a matter of learning and a bit of time. The Coding Train youtube channel had some interesting videos which explained it in more depth and with some examples.
+
+**Link to work:** https://www.freecodecamp.org/irys13 
+
+
+
+### Day 7: 17 July 2018
+
+**Today's Progress**: Default Parameters for Your Functions, Higher Order Arrow Functions
+
+**Thoughts:** I have read and learned a lot about arrow functions and more about DRY principles. It was a tough bite as it's rather hard thing to read but I have managed to get through it. I am proud of myself!
 
 **Link to work:** https://www.freecodecamp.org/irys13 
