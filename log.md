@@ -75,3 +75,15 @@ https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-j
 **Thoughts:** I have read and learned a lot about arrow functions and more about DRY principles. It was a tough bite as it's rather hard thing to read but I have managed to get through it. I am proud of myself as I did extra hour despite being tired. Mozilla web docs and The Code Train (YouTube channel) came quite handy.
 
 **Link to work:** https://www.freecodecamp.org/irys13 
+
+
+
+### Day 8: 18 July 2018
+
+**Today's Progress**: JS: Destructuring Assignment To Assign Variables From Objects, the Spread Operator To Evaluate Arrays In Place, the Rest Operator with Function Parameters
+CSS: half of applied visual design.
+Project: started Tribute web page.
+**Thoughts:** Since I had day off, I have worked on quite a lot of things. JS challenges difficulty have spiked and it seems like I am not the only one to struggle with them. Despite of it I got through them. CSS challenges were easy and I have started new project for Free Code Camp. I have spend quite a lot of time learning and programming today!
+
+**Link to work:** https://www.freecodecamp.org/irys13 
+https://github.com/Irys13/Tribute-Page
