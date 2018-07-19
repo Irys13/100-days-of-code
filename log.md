@@ -87,3 +87,11 @@ Project: started Tribute web page.
 
 **Link to work:** https://www.freecodecamp.org/irys13 
 https://github.com/Irys13/Tribute-Page
+
+
+### Day 9: 19 July 2018
+
+**Today's Progress**: HTML/CSS: changed tribute page to Irena Sandlerowa,roughly positioned items on web page.
+**Thoughts:** Tried to do somehting quickly before work.
+
+**Link to work:**https://github.com/Irys13/Tribute-Page
