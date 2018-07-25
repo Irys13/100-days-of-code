@@ -95,3 +95,21 @@ https://github.com/Irys13/Tribute-Page
 **Thoughts:** Tried to do somehting quickly before work.
 
 **Link to work:**https://github.com/Irys13/Tribute-Page
+
+
+### Day 10: ?? July 2018
+
+**Today's Progress**: Finished Tribute Page,Learned a lot of JS, HTML and CSS. Started new project- Survey Form.
+**Thoughts**: Got sick, busy at work, I have a lot of problems to tackle right now so I wasn't able to update list everyday. I think a quote from Churchill can sum it up well: "If you're going through hell, keep going."
+
+**Link to work:** Tribute page: http://irys-hub.com/index.html//FCC-projects/Tribute-Page/index.html
+
+
+### Day 11: 26 July 2018
+
+**Today's Progress**: JS, finished Applied Visual design on FCC
+**Thoughts:** I got really inspired by animation lessons in CSS, I have few projects ideas I could utilise, I really wish I had more time for this. I am almost done with ES6 in JS as well, I thought to give JS a little break after this and try to make some  more projects. Recently I have been heavily focusing on learning on FCC
+
+**Link to work:**https://www.freecodecamp.org/irys13
+
+
