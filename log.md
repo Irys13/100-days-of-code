@@ -95,7 +95,7 @@ https://github.com/Irys13/Tribute-Page
 
 **Thoughts:** Tried to do somehting quickly before work.
 
-**Link to work:**https://github.com/Irys13/Tribute-Page
+**Link to work:** https://github.com/Irys13/Tribute-Page
 
 
 ### Day 10: ?? July 2018
