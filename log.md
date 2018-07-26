@@ -116,3 +116,12 @@ https://github.com/Irys13/Tribute-Page
 **Link to work:** https://www.freecodecamp.org/irys13
 
 
+
+### Day 11: 26 July 2018
+
+**Today's Progress**: Learning more JS, edited my portfolio website
+
+**Thoughts:** Learned 
+
+**Link to work:** https://www.freecodecamp.org/irys13
+irys-hub.com
