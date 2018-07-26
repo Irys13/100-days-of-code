@@ -117,7 +117,7 @@ https://github.com/Irys13/Tribute-Page
 
 
 
-### Day 11: 26 July 2018
+### Day 12: 27 July 2018
 
 **Today's Progress**: Learning more JS, edited my portfolio website
 
