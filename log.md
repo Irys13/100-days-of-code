@@ -134,3 +134,15 @@ Use To Import Everything From A File, Use Export To Reuse A Code Block, Understa
 
 **Thoughts:** I had hard time focusing on learning today. Recently I have applied to a web developer apprenticeship and I am so excited about it. I wish I would know result of my application (I have written great application) so I could prepare myself ASAP for apprenticeship and start learning programme ahead. Probably I would also quit my job just so I can spend whole days learning and writing up new projects (oh I so wish I could do it now). Also I had a lot of work today hence I didn't had much time today. To be fair there wasn't much that I have learned today, just syntax different from other languages. 
 **Link to work:** https://www.freecodecamp.org/irys13
+
+
+
+
+
+### Day 14: 3 August 2018
+
+**Today's Progress**: Continued work on Survery form coursework from free code camp. Progress so far 8/17.
+
+**Thoughts:** I don't get why I get score 8/17, I'll have to dig deeper into it. I might also get some little free lance job for a start up business so I was busy with that and... work.
+
+**Link to work:** https://github.com/Irys13/Survey-Form
