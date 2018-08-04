@@ -153,6 +153,6 @@ Use To Import Everything From A File, Use Export To Reuse A Code Block, Understa
 
 **Today's Progress**: Continued work on Survery form coursework from free code camp. Progress so far 17/17. Completed all tasks.
 
-**Thoughts:** I think I was really tired yesterday because I have missed few things and misunderstood certain things in FCC coursework explanation. I guess it just meant that today's work on the coursework was dead simple!
+**Thoughts:** I think I was really tired yesterday because I have missed few things and misunderstood certain things in FCC coursework explanation. I guess it just meant that today's work on the coursework was dead simple! Tomorrow after work: making it pretty!
 
 **Link to work:** https://github.com/Irys13/Survey-Form
