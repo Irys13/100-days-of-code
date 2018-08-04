@@ -146,3 +146,13 @@ Use To Import Everything From A File, Use Export To Reuse A Code Block, Understa
 **Thoughts:** I don't get why I get score 8/17, I'll have to dig deeper into it. I might also get some little free lance job for a start up business so I was busy with that and... work.
 
 **Link to work:** https://github.com/Irys13/Survey-Form
+
+
+
+### Day 15: 4 August 2018
+
+**Today's Progress**: Continued work on Survery form coursework from free code camp. Progress so far 17/17. Completed all tasks.
+
+**Thoughts:** I think I was really tired yesterday because I have missed few things and misunderstood certain things in FCC coursework explanation. I guess it just meant that today's work on the coursework was dead simple!
+
+**Link to work:** https://github.com/Irys13/Survey-Form
