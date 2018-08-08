@@ -156,3 +156,13 @@ Use To Import Everything From A File, Use Export To Reuse A Code Block, Understa
 **Thoughts:** I think I was really tired yesterday because I have missed few things and misunderstood certain things in FCC coursework explanation. I guess it just meant that today's work on the coursework was dead simple! Tomorrow after work: making it pretty!
 
 **Link to work:** https://github.com/Irys13/Survey-Form
+
+
+
+### Day 16: 7 August 2018
+
+**Today's Progress**: Finished styling form, improved format of code to make it more readable
+
+**Thoughts:** After long day at work I have decided to work on survey form a bit more. Now it looks prettier. Next: web responsive. Now I need my sleep.
+
+**Link to work:** https://github.com/Irys13/Survey-Form
