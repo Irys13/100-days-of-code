@@ -166,3 +166,12 @@ Use To Import Everything From A File, Use Export To Reuse A Code Block, Understa
 **Thoughts:** After long day at work I have decided to work on survey form a bit more. Now it looks prettier. Next: web responsive. Now I need my sleep.
 
 **Link to work:** https://github.com/Irys13/Survey-Form
+
+
+### Day 17: 9 August 2018
+
+**Today's Progress**: Now survey works on mobile phones and tablets.
+
+**Thoughts:** I don't know why it took me so long to find that semicolon in css. I think I am just too tired and it's 2am but... survey looks so pretty I am proud of it so much. I can't wait to make next project.
+
+**Link to work:** https://github.com/Irys13/Survey-Form
