@@ -175,3 +175,41 @@ Use To Import Everything From A File, Use Export To Reuse A Code Block, Understa
 **Thoughts:** I don't know why it took me so long to find that semicolon in css. I think I am just too tired and it's 2am but... survey looks so pretty I am proud of it so much. I can't wait to make next project.
 
 **Link to work:** https://github.com/Irys13/Survey-Form
+
+
+### Day 18: 10 August 2018
+
+**Today's Progress**: Sketched some web design ideas for little free lance request.
+
+**Thoughts:** I am extremely excited about this little free lance job. It's for a start up company. I have been asked to make black and orange website. They haven't provided me their logo to know exact hue and saturation of colours they want me to use.
+
+**Link to work:**
+
+
+
+### Day 19: 11 August 2018
+
+**Today's Progress**: Half way through design stage of first website.
+
+**Thoughts:** I haven't finished design today because I havent received color scheme of logo yet (it is meant to integrate well with website) so I don't know if current design will fit colours. Let's see what will happen tomorrow. I can't decide on which font to use.
+
+**Link to work:**
+
+
+
+### Day 20: 12 August 2018
+
+**Today's Progress**: Finished first design of the website.
+
+**Thoughts:** I just thought that if the design is not going to be used in this project then I can use it somewhere else right. No work wasted. I am very happy with results. I just have to adjust size the website a bit more.
+
+**Link to work:**
+
+
+### Day 21: 13 August 2018
+
+**Today's Progress**: Made design of mobile version of black labrador website.
+
+**Thoughts:** Time to make 2 more.
+
+**Link to work:**
