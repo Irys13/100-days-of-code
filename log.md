@@ -213,3 +213,12 @@ Use To Import Everything From A File, Use Export To Reuse A Code Block, Understa
 **Thoughts:** Time to make 2 more.
 
 **Link to work:**
+
+
+### Day 22: 16 August 2018
+
+**Today's Progress**: Made 2 more designs for my client I felt inspired.
+
+**Thoughts:** Time to make light version. Also I have made kaban board other day. It came helpful to keep track of multiple designs. I don't upload designs yet because I am quite shy and I would prefer my client to see them first.
+
+**Link to work:** http://irys-hub.com/index.html/kanban-board.jpg
