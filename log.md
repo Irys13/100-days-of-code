@@ -222,3 +222,12 @@ Use To Import Everything From A File, Use Export To Reuse A Code Block, Understa
 **Thoughts:** Time to make light version. Also I have made kaban board other day. It came helpful to keep track of multiple designs. I don't upload designs yet because I am quite shy and I would prefer my client to see them first.
 
 **Link to work:** http://irys-hub.com/index.html/kanban-board.jpg
+
+
+### Day 23: 17 August 2018
+
+**Today's Progress**: Was looking for inspirateion for product landing page + started some html.
+
+**Thoughts:** I still don't know what I should do this project about. Perhaps server hosting? I am not sure
+
+**Link to work:** https://github.com/Irys13/Product-Landing-Page
