@@ -231,3 +231,13 @@ Use To Import Everything From A File, Use Export To Reuse A Code Block, Understa
 **Thoughts:** I still don't know what I should do this project about. Perhaps server hosting? I am not sure
 
 **Link to work:** https://github.com/Irys13/Product-Landing-Page
+
+
+### Day 24: 18 August 2018
+
+**Today's Progress**: Just added little bit to Product Landing Page which lacks any significance I guess.I have restarted Free Code Camp tutorial in Accessibility. I am almost done with it
+
+**Thoughts:** I felt like I have missed something in the course so I came back to it but I am not entirely sure.
+
+**Link to work:** https://github.com/Irys13/Product-Landing-Page
+https://www.freecodecamp.org/irys13
