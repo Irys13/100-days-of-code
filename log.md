@@ -241,3 +241,12 @@ Use To Import Everything From A File, Use Export To Reuse A Code Block, Understa
 
 **Link to work:** https://github.com/Irys13/Product-Landing-Page
 https://www.freecodecamp.org/irys13
+
+
+### Day 25: 20 August 2018
+
+**Today's Progress**: Finished Applied Accessibility, Responsive Web Design Principles and started CSS Flexbox.
+
+**Thoughts:** I was right! I havent learned anything about viewpoint in my previous courses. It turned out to be quite easy so I am going ot use it more frequently in future. Yesterday I have made massive job search so fingers crossed!
+
+**Link to work:** https://www.freecodecamp.org/irys13
