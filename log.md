@@ -250,3 +250,12 @@ https://www.freecodecamp.org/irys13
 **Thoughts:** I was right! I havent learned anything about viewpoint in my previous courses. It turned out to be quite easy so I am going ot use it more frequently in future. Yesterday I have made massive job search so fingers crossed!
 
 **Link to work:** https://www.freecodecamp.org/irys13
+
+
+### Day 26: 27 August 2018
+
+**Today's Progress**: Finished CSS flex box, almost done with CSS grid.
+
+**Thoughts:** This is much better than bootstrap I think. Last week was extremely busy. Lots of work and went for some interviews. I am tired I need a break and some food zZzZzZZ
+
+**Link to work:** https://www.freecodecamp.org/irys13
