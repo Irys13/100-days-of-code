@@ -122,6 +122,7 @@ https://github.com/Irys13/Tribute-Page
 **Today's Progress**: Learning more JS, edited my portfolio website.
 
 **Thoughts:** I have brushed up my knowledge about destructing so I feel more confident about it. Also updated my portfolio website because I haven't done it in a while. I thought to redesign whole thing, I think it's about time to rewamp it.
+
 **Link to work:** https://www.freecodecamp.org/irys13
 irys-hub.com
 
@@ -133,6 +134,7 @@ irys-hub.com
 Use To Import Everything From A File, Use Export To Reuse A Code Block, Understand the Differences Between Import and Require
 
 **Thoughts:** I had hard time focusing on learning today. Recently I have applied to a web developer apprenticeship and I am so excited about it. I wish I would know result of my application (I have written great application) so I could prepare myself ASAP for apprenticeship and start learning programme ahead. Probably I would also quit my job just so I can spend whole days learning and writing up new projects (oh I so wish I could do it now). Also I had a lot of work today hence I didn't had much time today. To be fair there wasn't much that I have learned today, just syntax different from other languages. 
+
 **Link to work:** https://www.freecodecamp.org/irys13
 
 
