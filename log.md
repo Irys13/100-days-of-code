@@ -265,6 +265,6 @@ https://www.freecodecamp.org/irys13
 
 **Today's Progress**: In last few days I have made design for new portfolio and today started writing it up.
 
-**Thoughts:** I think that this design is quite chill and have bene very enjoyable to write. So this is how I spend my free time after work...
+**Thoughts:** I think that this design is quite chill and have bene very enjoyable to write. So this is how I spend my free time after work... I would like to make a blog from scratch. Time to crank up JS soon (after I have some more rest, work have been particularly stressful recently).
 
 **Link to work:** https://github.com/Irys13/Portfolio-redesign
