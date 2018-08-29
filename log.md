@@ -259,3 +259,12 @@ https://www.freecodecamp.org/irys13
 **Thoughts:** This is much better than bootstrap I think. Last week was extremely busy. Lots of work and went for some interviews. I am tired I need a break and some food zZzZzZZ
 
 **Link to work:** https://www.freecodecamp.org/irys13
+
+
+### Day 27: 29 August 2018
+
+**Today's Progress**: In last few days I have made design for new portfolio and today started writing it up.
+
+**Thoughts:** I think that this design is quite chill and have bene very enjoyable to write. So this is how I spend my free time after work...
+
+**Link to work:** https://github.com/Irys13/Portfolio-redesign
