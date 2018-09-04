@@ -270,3 +270,20 @@ https://www.freecodecamp.org/irys13
 **Thoughts:** I think that this design is quite chill and have been very enjoyable to write. Inspiration from old blogs I found on some website archive. I like simplicity and minimalism of old blogs. So this is how I spend my free time after work... I would like to make a blog from scratch. Time to crank up JS soon (after I have some more rest, work have been particularly stressful recently). I really got to like to write this little diary.
 
 **Link to work:** https://github.com/Irys13/Portfolio-redesign
+
+### Day 31: 31 August 2018
+
+**Today's Progress**:
+
+**Thoughts:** Forgot to save this entry. I have continued work on portfolio redesign.
+
+**Link to work:** https://github.com/Irys13/Portfolio-redesign
+
+
+### Day 32: 3 September 2018
+
+**Today's Progress**: Made responsive across devices.
+
+**Thoughts:** I wasn't sure how I should set menu on small devices so I did extensive research and I liked fixed little menu on the bottom because it's so much easier to press than hamburger button.
+
+**Link to work:** https://github.com/Irys13/Portfolio-redesign
