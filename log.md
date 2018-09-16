@@ -287,3 +287,13 @@ https://www.freecodecamp.org/irys13
 **Thoughts:** I wasn't sure how I should set menu on small devices so I did extensive research and I liked fixed little menu on the bottom because it's so much easier to press than hamburger button.
 
 **Link to work:** https://github.com/Irys13/Portfolio-redesign
+
+
+### Day 33: 16 September 2018
+
+**Today's Progress**: Added idle timer function which detects no input from user for certain period of time.
+
+**Thoughts:** So I have forgotten to post here for a while now. In all that time I had a lot of shifts from my previous employer as they are heavily understaffed, got sick but managed to learn new things and start off my first JS project called 'meme room'. Despite not knowing much JS and not having a clue what I am actually doing, everything is going strangely smoothly. The projects goes in very good direction to my surprise. I have one week to finish it, just my deadline. Yesterday I have learned about DOMs and how JS actually works on websites. Today I have added idle timer which pops up alert when user is idle for 3 seconds (just for test). It's late and I don't have time to deal with it now but I have to add if loop so the alert comes up only when lightbulb is off (aka 'on' value, just to add to confusion). I am excited about it but also too tired, I guess I will have hard time falling asleep. I can't wait to smash my keyboard tomorrow.
+
+**Link to work:** https://github.com/Irys13/meme-room
+
