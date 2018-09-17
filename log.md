@@ -297,3 +297,11 @@ https://www.freecodecamp.org/irys13
 
 **Link to work:** https://github.com/Irys13/meme-room
 
+
+### Day 34: 17 September 2018
+
+**Today's Progress**: Added more comments so code is easier to read. Researched and added a bit of code (to add youtube video with JS).
+
+**Thoughts:** Couldn't finish want I wanted today. I have awful headache
+
+**Link to work:** https://github.com/Irys13/meme-room
